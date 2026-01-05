@@ -1,6 +1,6 @@
 # Senior Developer Roadmap 🚀
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/senior-dev-roadmap)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/senior-dev-roadmap)
+![Last Commit](https://img.shields.io/github/last-commit/omkumar01/senior-dev-roadmap)
+![Repo Size](https://img.shields.io/github/repo-size/omkumar01/senior-dev-roadmap)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📌 Overview
