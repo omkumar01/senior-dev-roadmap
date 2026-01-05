@@ -30,13 +30,6 @@ senior-dev-roadmap/
 - **Month 2:** Cloud Observability + API Security
 - **Month 3:** Leadership + Performance Engineering
 
+
 ## 📊 Progress
 ![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
-
-## 🛠 How to Use
-1. Clone the repo
-2. Navigate to the milestone folder
-3. Follow instructions in each README
-
-## 📚 Resources
-See [Resources.md](Resources.md) for free and paid learning materials.
