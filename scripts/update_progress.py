@@ -26,5 +26,5 @@ else:
     readme_content += progress_text
 
 # Save updated README.md
-with open(readme_file, 'w') as f:
-    f.write(readme_content)
+# with open(readme_file, 'w') as f:
+#     f.write(readme_content)
