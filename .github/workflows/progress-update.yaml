@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate Progress Report
         run: |
-          python scripts/update_progress.py
+          # python scripts/update_progress.py
 
       - name: Commit and Push Changes
         run: |
