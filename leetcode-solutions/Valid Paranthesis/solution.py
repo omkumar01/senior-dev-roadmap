@@ -25,3 +25,7 @@ if __name__ == "__main__":
         result = solution.isValid(s)
         assert result == expected, f"For input {s}, expected {expected} but got {result}"
     print("All test cases passed!")
+
+
+#Time Complexity: O(n)
+#Space Complexity: O(n)
