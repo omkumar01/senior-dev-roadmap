@@ -42,12 +42,12 @@ if __name__ == "__main__":
     print(f"Output: {find_missing_number(arr2)}")  # Expected: 5
     
     # Test 3
-    arr3 = [2, 4, 6, 7, 8]
+    arr3 = [2, 4, 6, 3, 5]
     print(f"\nInput: {arr3}")
     print(f"Output: {find_missing_number(arr3)}")  # Expected: 1
     
     # Test 4
-    arr4 = [1]
+    arr4 = [1,3]
     print(f"\nInput: {arr4}")
     print(f"Output: {find_missing_number(arr4)}")  # Expected: 2
 
