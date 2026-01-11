@@ -30,6 +30,7 @@ senior-dev-roadmap/
 ├── miscellaneous.md                   # Additional tools and technologies
 ├── system-design-examples/            # Design patterns and architectures
 ├── leetcode-solutions/                # DSA problem solutions
+├── Problem-solving                    # competative problems solutions
 ├── cloud-observability/               # Monitoring, logging, tracing
 ├── security/                          # Security implementations
 ├── performance/                       # Performance optimization
