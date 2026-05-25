@@ -55,6 +55,6 @@ The app will be available at `http://localhost:8501`
 - 🔒 API key stored securely in .env file
 
 ## Notes
-- This app uses the `gemini-pro` model
+- This app uses the `gemini-3-flash-preview` model
 - Chat history resets when you refresh the page
 - Make sure your `.env` file is in `.gitignore` to keep your API key private
