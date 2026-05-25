@@ -7,7 +7,7 @@ yarn.lock
 .env
 .env.local
 .env.*.local
-GenAI\"Chat with Gemini"\.env
+GenAI/Chat with Gemini/.env
 # IDE
 .vscode/
 .idea/
